@@ -1,0 +1,2 @@
+# Ignore all folders that start with .tmp
+.tmp*/
